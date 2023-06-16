@@ -26,13 +26,15 @@ If you like to learn and collaborate together, then join us at https://curiosity
 
 ### 2. **Search for Open Issues**
 Look through the following Organization's Issues below by hitting (Ctrl-Click) on the link, based upon your area of interest.<br>
-- [Tao Fruit](https://github.com/search?l=&q=user%3Ataofruit&type=issues) - Graphics, Copywriting, &amp; Website Design Organization<br>
-- [Note Hive](https://github.com/search?l=&q=user%3ANote-Hive&type=issues) - Documentation, Grants, Guides, Handbooks, and other Writing Projects<br>
-- [United Home](https://github.com/search?l=&q=user%3AUnited-Home&type=issues) - Home, Lifestyle, and Architectural Projects<br>
-- [Tao Learning Institute](https://github.com/search?l=&q=user%3ATaoLearning&type=issues) - Non-Profit Organization focused on Learning & Development<br>
-- [INSTAR Lab Inc](https://github.com/search?l=&q=user%3AINSTARLab&type=issues) - Non-Profit Organization focused on Research & Development<br>
-- [SILK Corp](https://github.com/WorldEnterpriseGroup/silkcorp/issues) - Non-Profit Operates in Health & Wellness Industry<br>
-- [SILK Corp Guide](https://github.com/NoteHive/Silk-Corp-Guide) - Franchise Model<br>
+- [World Enterprise](https://github.com/search?l=&q=user%3Aworldenterprisegroup+label%3A"good+first+issue"&type=issues) - Graphics, Copywriting, &amp; Website Design for Startups<br>
+- [Note Hive](https://github.com/search?l=&q=user%3ANote-Hive+label%3A"good+first+issue"&type=issues) - Documentation, Grants, Guides, Handbooks, and other Writing Projects<br>
+- [United Home](https://github.com/search?l=&q=user%3AUnited-Home+label%3A"good+first+issue"&type=issues) - Home, Lifestyle, and Architectural Projects<br>
+- [HardMagic](https://github.com/search?l=&q=user%AHardMagic+label%3A"good+first+issue"&type=issues) - Design, Ideation, Storytelling, Branding, Visionary, Futurism, Creative Direction<br>
+- [Tao Learning Institute](https://github.com/search?l=&q=user%3ATaoLearning+label%3A"good+first+issue"&type=issues) - Non-Profit Organization focused on STEAM Literacy, Learning, & Development<br>
+- [INSTAR Lab Inc](https://github.com/search?l=&q=user%3AINSTARLab+label%3A"good+first+issue"&type=issues) - Scientific Research Institute with projects in Quantum Research, Artificial Intelligence, and the Future of Work.<br>
+- [Source Now](https://github.com/search?l=&q=user%3ASource-Now+label%3A"good+first+issue"&type=issues) - Data Science, Data Analysis, Forensics, Data Research<br>
+- [SILK Corp](https://github.com/WorldEnterpriseGroup/silkcorp/issues) - Public Benefit Corporation focused on Women Empowerment, DE&I, Homesteading, Health & Wellness Industry<br>
+- [SILK Corp Guide](https://github.com/NoteHive/Silk-Corp-Guide) - SILK Corp Franchise Model<br>
 
 ### 3. **Find an Issue that Matches Your Interest**
 Continue browsing the Issues Tab _(Tab 3)_ to find an issue suitable for your skills and interests on the newly opened tab. 
