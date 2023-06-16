@@ -1,8 +1,8 @@
-# Welcome to XpressLab - Express Yourself and Get Placed
+# XpressLab - Express Yourself with Experiential Learning
 
 ### XpressLab Overview
 
-XpressLab is an innovative platform designed to empower individuals to express themselves and showcase their skills through active participation on GitHub. We believe in the power of open collaboration and the opportunities it brings for personal and professional growth. By following our carefully crafted instructions and guidelines, individuals can contribute their unique talents, ideas, and projects on GitHub.
+XpressLab is an innovative platform designed to empower individuals to express themselves and showcase their skills through active participation on GitHub. We believe in the power of open collaboration and the opportunities it brings for personal and professional growth. By following our carefully crafted instructions and guidelines, individuals can contribute their unique talents, ideas, and projects on GitHub. This allows you to learn while making an impact across any repository on all of Github!
 
 At XpressLab, we provide a platform where talented individuals have the chance to shine and stand out from the crowd. Our team carefully reviews and evaluates the contributions made by participants, identifying exceptional candidates who demonstrate remarkable skills, creativity, and dedication.
 
