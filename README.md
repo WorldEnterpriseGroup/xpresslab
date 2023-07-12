@@ -12,6 +12,14 @@ One of our core objectives at XpressLab is to enable individuals to unlock their
 
 Join XpressLab today and embark on a journey of self-expression, skill development, and financial prosperity. Together, we can shape individuals to become successful contributors in the industry, leveraging their unique talents to make a significant impact while enjoying the financial rewards that come with their hard work and dedication.
 
+### Git for Windows
+Website: [Git for Windows](https://gitforwindows.org/)<br>
+Git for Windows is a powerful and widely used version control system designed to help developers track changes to their code and collaborate effectively on software projects. It provides a command-line interface and a set of tools specifically optimized for Windows operating systems. With Git for Windows, developers can easily create repositories, manage branches, commit changes, and synchronize their code with remote repositories. Whether you're a beginner or an experienced developer, Git for Windows offers a reliable and efficient way to track and manage your code, enabling seamless collaboration and ensuring the integrity of your projects.
+
+### Introduction to Github for Desktop
+website: [GitHub for Desktop](desktop.github.com)<br>
+GitHub Desktop is a user-friendly application that simplifies the process of working with Git repositories on your computer. By visiting the official GitHub Desktop website and downloading the installer, you can quickly set up the application. Once installed, GitHub Desktop provides an intuitive interface for managing repositories, creating branches, making code changes, and collaborating with others through pull requests. It offers a visual and streamlined approach to version control, making it accessible to developers of all experience levels.
+
 ### Introduction to GitHub
 If this is your first time ever using GitHub, then you might want to develop some beginner skills at https://skills.github.com/.
 Though, we will try to walk you through the following instructions:
@@ -121,13 +129,28 @@ We will now use a trick to convert Tab 5 to a new workspace.
    2. Choose the look you want.
    3. Sync to and from other device by signing in with your GitHub account.		
    4. Click Extensions Icon on VS Code and install the following:
-      - Azure Repos
-      - GitHub Pull Requests and Issues
-      - GitHub Repositories
-      - Live Server
-      - Live Share Extension  Pack
-      - Markdown Preview Enhanced
-      - Remote Repositories
+
+      - [ChatGPT GPT-4](https://marketplace.visualstudio.com/items?itemName=Bito.Bito)
+      - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+      - [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
+      - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+      - [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+      - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+      - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories)
+
+   ```mermaid
+graph LR
+    A[Visual Studio Code Insider] --> B[VS Code Insider Extension]
+    A -- Extension --> C[ChatGPT GPT-4]
+    A -- Extension --> D[GitHub Pull Requests and Issues]
+    A -- Extension --> E[GitHub Repositories]
+    A -- Extension --> F[Live Server]
+    A -- Extension --> G[Live Share Extension Pack]
+    A -- Extension --> H[Markdown Preview Enhanced]
+    A -- Extension --> I[Remote Repositories]
+
+```
+    
    6. From your GitHub tab on your internet browser find the URL to clone.
    7. Open a Terminal on VS Code.
    8. Clone the repository.
