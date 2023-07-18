@@ -138,18 +138,6 @@ We will now use a trick to convert Tab 5 to a new workspace.
       - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
       - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories)
 
-   ```mermaid
-graph LR
-    A[Visual Studio Code Insider] --> B[VS Code Insider Extension]
-    A -- Extension --> C[ChatGPT GPT-4]
-    A -- Extension --> D[GitHub Pull Requests and Issues]
-    A -- Extension --> E[GitHub Repositories]
-    A -- Extension --> F[Live Server]
-    A -- Extension --> G[Live Share Extension Pack]
-    A -- Extension --> H[Markdown Preview Enhanced]
-    A -- Extension --> I[Remote Repositories]
-
-```
     
    6. From your GitHub tab on your internet browser find the URL to clone.
    7. Open a Terminal on VS Code.
