@@ -71,9 +71,34 @@ Once installed, right-click your HTML file and select "Open with Live Server" to
 
 ---
 
-## Step 6: Rewrite Content Using GPT o3-mini
+Here's your revised **Step 6** with clear instructions about using any GPT model, along with guidance on choosing the best GPT for different copywriting tasks:
 
-Identify pages containing Lorem Ipsum text. Copy the entire HTML content into GPT o3-mini and use the following prompt (fill in the blanks):
+---
+
+## Step 6: Rewrite Content Using GPT
+
+You can use **any GPT model or AI copywriting assistant** to rewrite the Lorem Ipsum content. Choose the GPT tool that best suits your specific copywriting task:
+
+- **Entire Page Edits (Generic Copy):**  
+  We've had great success (as of March 2025) using **GPT o3-mini** for rewriting entire pages, especially when you need to maintain the integrity and structure of the whole file.
+
+- **Single-Line Edits (High-End Copywriting):**  
+  For more targeted, high-quality copywriting changes—such as headlines, taglines, or calls-to-action—we recommend using **GPT 4.5**, as it excels at delivering concise, impactful messaging.
+
+- **Other GPT Tools (e.g., GitHub Copilot):**  
+  Feel free to use **GitHub Copilot** or any other GPT-based tool you prefer. Your choice of tool should be based on the best results for your specific task.
+
+### Important Notes:
+
+- **Quality Matters:**  
+  Your contributions will be evaluated based on the quality of your content and how closely it aligns with the website's branding, tone, and purpose.
+
+- **Study Copywriting Fundamentals:**  
+  If you're new to copywriting or want to further improve your skills, we highly recommend studying general copywriting principles. Understanding the fundamentals will help you effectively guide GPT models to produce better, more targeted results.
+
+### Example Prompt for GPT (fill in the blanks):
+
+When using GPT to rewrite entire pages, use a clear prompt such as:
 
 ```
 DO NOT TOUCH THE HTML ELEMENTS!! You are NOT a programmer. You will be fired if you delete ANY element!!
@@ -88,6 +113,8 @@ Go ahead and change ANY of the text to whatever you feel is best for this page.
 
 Rewrite the full page, keeping all HTML elements intact and ONLY changing the copy so I can copy/paste your full answer back into this file.
 ```
+
+Once GPT generates the new copy, carefully copy the entire response and paste it back into your HTML file, replacing the original Lorem Ipsum content.
 
 ---
 
@@ -130,6 +157,12 @@ Finally, submit your changes back to the original repository:
 
 🎉 **Congratulations!** You've successfully contributed as a copywriter using XpressLab. Your work will now be reviewed, and feedback or approval will follow shortly.
 
-For further help or training, join our collaborative community at [Curiosity Hive](https://curiosityhive.org).
+## Want to Improve Your Copywriting & Content Creation Skills?
+
+If you're interested in further developing your skills to become an expert content creator, we offer foundational training videos covering HTML basics, copywriting fundamentals, and content creation principles.
+
+- 📺 **General Copywriting & Content Creation Training (2020):** [https://notehive.org](https://notehive.org)
+
+Additionally, for more collaborative learning and ongoing support, join our community at [Curiosity Hive](https://curiosityhive.org).
 
 Happy Writing! ✍️
