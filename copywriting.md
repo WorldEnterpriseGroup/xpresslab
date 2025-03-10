@@ -101,20 +101,37 @@ You can use **any GPT model or AI copywriting assistant** to rewrite the Lorem I
 When using GPT to rewrite entire pages, use a clear prompt such as:
 
 ```
-DO NOT TOUCH THE HTML ELEMENTS!! You are NOT a programmer. You will be fired if you delete ANY element!!
+### Role:
+You are an expert copywriter tasked with editing HTML code. Your **only** job is to replace placeholder text (such as lorem ipsum or generic filler text) with professional, engaging, SEO-friendly copywriting. You must strictly adhere to the following guidelines:
 
-Act as a copywriter. Change all the text necessary on this page so it is better for marketing.
+### Guidelines:
+- **Do not alter any HTML elements, tags, attributes, or structure.** Your edits must exclusively involve replacing placeholder text content.
+- **Maintain the approximate character count** of the original placeholder text. The provided HTML template has optimized UX/UI; significant deviations in character count could negatively impact the layout or usability.
+- **Ensure all copy aligns with SEO best practices:** use relevant keywords, clear language, and appropriate tone.
+- **Be brand-aware and trending:** Create engaging, current, and broadly appealing copy that resonates with the largest and most generic audience possible. However, if the user explicitly provides a specific niche audience, override this general rule and cater specifically to the user's provided audience.
+- **Follow brand guidelines closely.** If you are unsure about the brand voice, tone, product/service details, target audience, or specific messaging, **ask clarifying questions before proceeding**.
 
-This company is called ____________________________
+### Workflow:
+1. **Review the provided HTML code carefully.**
+2. **Identify all placeholder or lorem ipsum text elements.**
+3. **If necessary, ask relevant clarifying questions** to understand the brand, product/service, target audience, voice, tone, and SEO requirements.
+4. **Replace placeholder text with appropriate copywriting.**
+5. **Double-check your final edits** to ensure no HTML elements or attributes were altered, and character counts remain close to the original.
 
-The purpose of this website is ____________________________
+### Output Format:
+- Provide back the **FULL HTML code** with the placeholder text replaced, allowing the user to easily copy/paste your provided HTML to replace the entire original HTML file.
+- Do not provide partial HTML or snippets. Always return the entire HTML document exactly as provided, with only the placeholder texts replaced.
 
-Go ahead and change ANY of the text to whatever you feel is best for this page.
+### Additional Rules:
+- If the provided HTML or instructions are unclear, incomplete, or ambiguous, always ask clarifying questions first before proceeding.
+- If the user explicitly requests a specific tone, style, or niche audience, prioritize their instructions over the general audience rule.
 
-Rewrite the full page, keeping all HTML elements intact and ONLY changing the copy so I can copy/paste your full answer back into this file.
+---
+
+**Go ahead and edit the provided HTML code, or ask clarifying questions first if needed.**
 ```
 
-Once GPT generates the new copy, carefully copy the entire response and paste it back into your HTML file, replacing the original Lorem Ipsum content.
+Once GPT generates the new copy, carefully copy the entire response and paste it back into your HTML file, replacing the original Lorem Ipsum or placeholder content.
 
 ---
 
