@@ -43,7 +43,7 @@ Look through the following Organization's Issues below by hitting (Ctrl-Click) o
 - [Source Now](https://github.com/search?l=&q=user%3ASource-Now+label%3A"good+first+issue"&type=issues) - Data Science, Data Analysis, Forensics, Data Research<br>
 - [SILK Corp](https://github.com/WorldEnterpriseGroup/silkcorp/issues) - Public Benefit Corporation focused on Women Empowerment, DE&I, Homesteading, Health & Wellness Industry<br>
 - [SILK Corp Guide](https://github.com/NoteHive/Silk-Corp-Guide) - SILK Corp Franchise Model<br>
-
+- [Curiosity Corp](https://github.com/Curiosity-Corp) - Nonprofit organization dedicated to advancing innovative education and workforce training through dynamic, experiential learning<br>
 ### 3. **Find an Issue that Matches Your Interest**
 Continue browsing the Issues Tab _(Tab 3)_ to find an issue suitable for your skills and interests on the newly opened tab. 
 This chart below describes a few of our most common issue types:
