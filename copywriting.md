@@ -28,6 +28,7 @@ Browse through the repositories of our GitHub organizations listed below to find
 - [Source Now](https://github.com/Source-Now?tab=repositories) – Data Science, Data Analysis, Forensics, Data Research
 - [SILK Corp](https://github.com/WorldEnterpriseGroup?tab=repositories&q=silkcorp&type=&language=&sort=) – Public Benefit Corporation focused on Women Empowerment, DE&I, Homesteading, Health & Wellness Industry
 - [SILK Corp Guide](https://github.com/NoteHive/Silk-Corp-Guide) – SILK Corp Franchise Model
+- [Curiosity Corp](https://github.com/Curiosity-Corp) - Nonprofit organization dedicated to advancing innovative education and workforce training through dynamic, experiential learning
 
 Once you identify a repository containing Lorem Ipsum content that you'd like to improve, proceed to the next step.
 
