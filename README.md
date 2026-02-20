@@ -197,3 +197,11 @@ Once you're satisfied and have exited the loop, it's time to submit your contrib
 > :money_mouth_face: $\color{green}{Want}$ $\color{green}{to}$ $\color{green}{Make}$ $\color{green}{Money!?}$- We provide compensation for significant contributions to our projects. To be eligible, add a USDT (TRC-20) wallet address to your GitHub profile bio.
 > - [Where to find my USDT Wallet Address?](https://www.followchain.org/binance-wallet-address)
 > - [Sample GitHub Profile with USDT Wallet](https://github.com/yennefer-m)
+---
+
+## Internship Introduction  
+
+Hello! My name is Mogbekeloluwa, and I’m contributing as part of my internship application.  
+I am passionate about computer science and technology
+
+
